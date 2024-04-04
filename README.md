@@ -1,4 +1,4 @@
-# House_price_prediction_Class_presentation
+# Predict_housing_prices
 
 This is a fast API Server that been set up with jupyter note books to serve and predict the price of a house price for house given the house details, like Bedrooms and other. 
 
@@ -66,4 +66,3 @@ the project has been installed canbe run in the file with a vs code extension of
 - Kayongo Johnson Brian
 
 
-# Predict_housing_prices
